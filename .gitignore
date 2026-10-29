@@ -1,5 +1,17 @@
+# Private keys
 *.pem
 *.key
+
+# Environment variables and secrets
 .env
 .env.*
+
+# AWS configuration and credentials
 .aws/
+
+# SSH keys and local configuration
+.ssh/
+
+# Operating system files
+.DS_Store
+Thumbs.db
